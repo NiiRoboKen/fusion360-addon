@@ -1,7 +1,7 @@
 {
 	"autodeskProduct":	"Fusion",
 	"type":	"script",
-	"author":	"41",
+	"author":	"22s 末永よいち",
 	"description":	{
 		"":	"外形15mm内径12mmの角パイプを生成します。任意の長さで生成します。"
 	},
